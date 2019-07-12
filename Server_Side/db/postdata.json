@@ -1,0 +1,159 @@
+[
+    {
+        "acronym": "ACUI",
+        "definition": "Adobe Common User Interface",
+        "image": "/artpostimages/acui.jpeg",
+        "org": "adobe"
+    },
+    {
+        "acronym": "ACV",
+        "definition": "Annual Contract Value", 
+        "image": "/artpostimages/acv.jpeg",
+        "org": "adobe"        
+    },
+    {
+        "acronym": "ACX",
+        "definition": "Adobe Campaign solution Accelerators",
+        "image": "/artpostimages/acx.jpeg",
+        "org": "adobe"        
+    },
+    {
+        "acronym": "ADA",
+        "definition": "Adobe Download Assistant",
+        "image": "/artpostimages/ada.jpeg",
+        "org": "adobe"        
+    },
+    {
+        "acronym": "ADC",
+        "definition": "Adobe Device Central", 
+        "image": "/artpostimages/adc.jpeg",
+        "org": "adobe"        
+    },
+    {
+        "acronym": "ADD",
+        "definition": "AdLens Display", 
+        "image": "/artpostimages/add.jpeg",
+        "org": "adobe"
+    },
+    {
+        "acronym": "ADDT",
+        "definition": "DWDeveloper_Toolbox", 
+        "image": "/artpostimages/addt.jpeg"
+    },
+    {
+        "acronym": "ADE",
+        "definition": "Digital Editions", 
+        "image": "/artpostimages/ade.jpeg"
+    },
+    {
+        "acronym": "ADEB",
+        "definition": "Adobe Debut App", 
+        "image": "/artpostimages/adeb.jpeg",
+        "org": "adobe"        
+    },
+    {
+        "acronym": "ADEP",
+        "definition": "Adobe Digital Enterprise Platform", 
+        "image": "/artpostimages/adep.jpeg",
+        "org": "adobe"        
+    },
+    {
+        "acronym": "ADI",
+        "definition": "Adobe Digital Index", 
+        "image": "/artpostimages/adi.jpeg",
+        "org": "adobe"        
+    }
+    ,
+    {
+        "acronym": "AD",
+        "definition": "Ad Hoc Meetiting", 
+        "image": "/artpostimages/ad.jpeg",
+        "org": "adobe"        
+    },
+    {
+        "acronym": "CCX",
+        "definition": "Creative Cloud Experience", 
+        "image": "/artpostimages/ccx.jpeg",
+        "org": "adobe"        
+    },
+    {
+        "acronym": "DME",
+        "definition": "Digital Media", 
+        "image": "/artpostimages/dme.jpeg",
+        "org": "adobe"        
+    },
+    {
+        "acronym": "LAS",
+        "definition": "Lost Ass Shit", 
+        "image": "/artpostimages/las.jpeg",
+        "org": "adobe"        
+    },
+    {
+        "acronym": "SWAG",
+        "definition": "Scientic Wild Ass Guess", 
+        "image": "/artpostimages/swag.jpeg",
+        "org": "adobe"        
+    },
+    
+    {
+        "acronym": "AM",
+        "definition": "Account Manager", 
+        "image": "/artpostimages/am.jpeg",
+        "org": "adobe"        
+    },   
+    {
+        "acronym": "AMC",
+        "definition": "Adobe Mobile Client", 
+        "image": "/artpostimages/amc.jpeg",
+        "org": "adobe"        
+    },
+    {
+        "acronym": "AMAP",
+        "definition": "Adobe Experience Manager Apps", 
+        "image": "/artpostimages/amap.jpeg",
+        "org": "adobe"        
+    },
+    {
+        "acronym": "ALPS",
+        "definition": "Adobe® LeanPrint Small Business Edition", 
+        "image": "/artpostimages/alps.jpeg",
+        "org": "adobe"        
+    },
+    {
+        "acronym": "ALT",
+        "definition": "Adobe Licensing Tool", 
+        "image": "/artpostimages/alt.jpeg",
+        "org": "adobe"        
+    },
+    {
+        "acronym": "ALCA",
+        "definition": "Adobe LiveCycle Assembler", 
+        "image": "/artpostimages/alca.jpeg",
+        "org": "adobe"        
+    },
+    {
+        "acronym": "ALE",
+        "definition": "Application link enable", 
+        "image": "/artpostimages/ale.jpeg",
+        "org": "adobe"        
+    },
+    {
+        "acronym": "ALF",
+        "definition": "Adobe Localization Framework", 
+        "image": "/artpostimages/alf.jpeg",
+        "org": "adobe"        
+    },
+    {
+        "acronym": "ALL",
+        "definition": "All Languages", 
+        "image": "/artpostimages/all.jpeg",
+        "org": "adobe"        
+    },
+    {
+        "acronym": "ALM",
+        "definition": "Adobe License Manager", 
+        "image": "/artpostimages/alm.jpeg",
+        "org": "adobe"        
+    }
+    
+]
