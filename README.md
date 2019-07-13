@@ -1,22 +1,54 @@
-#Front end
+## Local Installation Steps for MacOS iOS
 
-`cd aWord.V1/aWord`
-`react-native run-ios`
+### Installing dependencies
+```
+brew install node
+brew install watchman
+brew tap AdoptOpenJDK/openjdk
+brew cask install adoptopenjdk8
 
+```
+### The React Native CLI
+``` 
+npm install -g react-native-cli
 
-#Back end
-Open a new terminal tab.
+```
+
+### Download Xcode 
+
+[Click here to download Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
+
+### Clone Repo
+``` 
+git clone https://github.com/rightbrainpapi/aWord.git
+
+``` 
+
+### Run Front end
+```
+cd aWord
+npm install
+react-native run-ios
+```
+- The commands listed above should open a new terminal window that builds the app and the iOS simulator
+
+### Run Back end
+
+#### Run Mongo Database
+
+Open a new terminal tab
 
 `cd Server_Side/`
 `npm install`
 `mongod`
 
-Open a third terminal tab
+Open additional terminal tab
 `cd Server_Side/`
 `nodemon`
 
+#### Seed Mongo Database
+
 Open a Fourth terminal tab
-Make sure your in Server_Side/
 
 `cd Server_Side/`
 `node db/seed.js` 
