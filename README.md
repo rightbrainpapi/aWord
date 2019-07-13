@@ -43,15 +43,18 @@ npm install
 mongod
 
 ```
+#### Automatic re-running with nodemon
 
 Open additional terminal tab
-`cd Server_Side/`
-`nodemon`
+``` 
+cd Server_Side
+nodemon
+``` 
 
-#### Seed Mongo Database
+#### Seed Mongo Database with Acronyms
 
 Open a Fourth terminal tab
-
-`cd Server_Side/`
-`node db/seed.js` 
-
+```
+cd Server_Side
+node db/seed.js
+```
