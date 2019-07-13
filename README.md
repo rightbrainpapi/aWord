@@ -8,7 +8,7 @@ brew tap AdoptOpenJDK/openjdk
 brew cask install adoptopenjdk8
 
 ```
-### The React Native CLI
+### React Native CLI
 ``` 
 npm install -g react-native-cli
 
@@ -24,7 +24,7 @@ git clone https://github.com/rightbrainpapi/aWord.git
 
 ``` 
 
-### Run Front end
+### Front-end Setup
 ```
 cd aWord
 npm install
@@ -32,15 +32,17 @@ react-native run-ios
 ```
 - The commands listed above should open a new terminal window that builds the app and the iOS simulator
 
-### Run Back end
+### Back-end Setup 
 
 #### Run Mongo Database
 
 Open a new terminal tab
+```
+cd Server_Side
+npm install
+mongod
 
-`cd Server_Side/`
-`npm install`
-`mongod`
+```
 
 Open additional terminal tab
 `cd Server_Side/`
