@@ -1,4 +1,4 @@
-## Local Installation Steps for MacOS iOS
+## Local Installation Steps for MacOS
 
 ### Installing dependencies
 ```
@@ -24,7 +24,7 @@ git clone https://github.com/rightbrainpapi/aWord.git
 
 ``` 
 
-### Front-end Setup
+## Front-end Setup
 ```
 cd aWord
 npm install
@@ -32,7 +32,7 @@ react-native run-ios
 ```
 - The commands listed above should open a new terminal window that builds the app and the iOS simulator
 
-### Back-end Setup 
+## Back-end Setup 
 
 #### Run Mongo Database
 
