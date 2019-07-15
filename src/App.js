@@ -5,30 +5,26 @@ import { StyleSheet, View} from 'react-native';
 
 
 //Import Necessary Screens
-// import LandingScreen from './components/Landing/LandingScreen';
-// import {Header} from './components/common/Header';
-// import Auth from './components/Auth';
+import {Header} from './components/common/Header';
+import Auth from './components/Auth';
 import InsideApp from './components/InsideApp';
-// import OutsideApp from './components/OutsideApp';
 
 
 // Create a component
 export default class App extends Component{
   render() {
     return (
-      // <View style={styles.container}>
-      //   <LandingScreen/>
-      // </View>
-
-      // <Auth/>
+  
 
 
-      // <View>
-      // <Header headerText='Authentication'/>
-      // <Auth/>
-      // </View>
-      // <OutsideApp/>
-      <InsideApp/>
+
+      <View>
+      <Header headerText='Authentication'/>
+      <Auth/>
+      </View>
+    
+
+      // <InsideApp/>
 
       // <AppNavigator/> 
     );
